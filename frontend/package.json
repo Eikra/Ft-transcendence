@@ -1,0 +1,11 @@
+{
+  "name": "fw",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "watch": "babel src --out-dir dist --watch"
+  },
+  "dependencies": {
+    "three": "^0.170.0"
+  }
+}
